@@ -1,0 +1,319 @@
+
+.s1{
+    display: flex;
+}
+.a1{
+    width: 50%;
+    display: flex;
+    position: relative; left: 10%;
+}
+.a2{
+    width: 50%;
+    display: flex;
+    position: relative; left: 25%;
+}
+    
+.ss2{
+    display: flex;
+    width: 100%; height: 100px;
+    background-color:#002a40 ;
+    list-style: none;
+    gap: 40px;
+}
+.ss2 li{
+    position: relative;
+    top: 35px;
+    left: 175px;
+
+}
+.ss2 li:hover{
+    cursor: pointer;
+    color: whitesmoke;
+}
+.s3{
+    width: 100%;
+    height: 75px;
+    display: flex;
+    background-color: #f5f5f5;
+    position: relative;
+    bottom: 15px;
+}
+.c1{
+    position: relative;
+    left: 325px;
+    top: 15px;
+}
+.c11{
+    font-size: 18px;
+    width: 500px;
+    height: 45px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.c2{
+    display: flex;
+    position: relative;
+    left: 23%;
+    top: 10px;
+    width: 150px;
+    height: 50px;
+    border-radius: 5%;
+    background-color:#448AFF;
+}
+.c2 img{
+    position: relative; top: 10px;
+}
+.d1{
+    width: 100%;
+    position: relative;
+    left: 33%;   
+}
+.d1 p{
+    font-size: 45px;
+    color: rgb(126, 115, 115);
+}
+.d1 b{
+    position: relative;
+    bottom: 25px;
+    font-size: 20px;
+}
+.d2{
+    width: 100%;
+    position: relative;
+    top: 30px;
+    border-spacing: 25px;
+}
+.d2 td{
+    border: 1px;
+    width: 25%;
+    margin-left: 60px;
+    text-align: center;
+    background-color: aliceblue
+}
+
+.d3 p{
+    position: relative;
+    left: 5%;
+}
+.d3 td:hover{ 
+    cursor: pointer;
+    background-color: blue;
+
+}
+.d4{
+background-color: #002a40;
+width: 15%; height: 40px;
+color: white;
+position: relative;
+left: 40%;
+top: 40px;
+}
+.d4:hover{
+    cursor: pointer;
+    background-color: black;
+}
+.d4 p{
+    position: relative;
+    top: 10px;
+    left:10px ;
+}
+.va{
+    background-color: #f5f5f5; 
+}
+.s5{
+    width: 100%;
+    background-color: #f5f5f5;
+    position: relative;
+    top: 50px;
+    
+}
+.e1{
+    font-size: 40px;
+    position: relative;
+    left: 500px;
+}
+.e2{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 500px;
+}
+
+.s6{
+    position: relative;
+    top: 155px;
+    display: flex;
+    width: 100%;
+    
+}
+.fa{
+    width: 20%;
+    border: 1px ;
+    text-align: center;
+    background-color: white;
+    position: relative;
+    left: 3%;
+
+
+}
+.fa:hover{
+    cursor: pointer;
+    background-color: rgb(253, 248, 248);
+}
+.fb{
+    width: 20%;
+    border: 1px ;
+    text-align: center;
+    background-color: white;
+    position: relative;
+    left: 8%;
+
+
+}
+.fb:hover{
+    cursor: pointer;
+    background-color:  rgb(253, 248, 248);
+}
+.fc{
+    width: 20%;
+    border: 1px ;
+    text-align: center;
+    background-color: white;
+    position: relative;
+    left: 13%;
+
+
+}
+.fc:hover{
+    cursor: pointer;
+    background-color:  rgb(253, 248, 248);
+}
+.fd{
+    width: 20%;
+    border: 1px ;
+    text-align: center;
+    background-color: white;
+    position: relative;
+    left: 17%;
+
+}
+.fd:hover{
+    cursor: pointer;
+    background-color:  rgb(253, 248, 248);
+}
+.s6 .f1{
+    display: flex;
+    position: relative;
+    left: 15%;
+
+}
+.f2{
+    display: flex;
+    position: relative;
+    right: 40px;
+}
+.f3{
+    display: flex;
+    position: relative;
+    left: 30px;
+    top: 5px;
+}
+.f2 p{
+    color: #039be5;
+}
+.f3 p{
+    color: #039be5;
+}
+.s7{
+    background-color: #f5f5f5;
+    position: relative;
+    top: 240px;
+    display: flex;
+    width: 100%;
+}
+.ga{
+    width: 20%;
+    border: 1px;
+    position: relative;
+    left: 3%;
+    text-align: center;
+    background-color: white;
+
+} 
+.ga:hover{
+    cursor:pointer;
+    background-color: beige;
+}
+.gb{
+    width: 20%;
+    border: 1px;
+    position: relative;
+    left: 8%;
+    text-align: center;
+    background-color: white;
+}
+.gb:hover{
+    cursor:pointer;
+    background-color: beige;
+}
+.gc{
+    width: 20%;
+    border: 1px ; 
+    position: relative;
+    left: 13%;
+    text-align: center;
+    background-color: white;
+}
+.gc:hover{
+    cursor:pointer;
+    background-color: beige;
+}
+.gd{
+    width: 20%;
+    border: 1px ;
+    position: relative;
+    left: 17%;
+    text-align: center;
+    background-color: white;
+}
+.gd:hover{
+    cursor:pointer;
+    background-color: beige;
+}
+.g1{
+    display: flex;
+    
+}
+.g3{
+    display: flex;
+    position: relative;
+    left: 60px ;
+}
+.g2{
+    display: flex;
+}
+.g2 p{
+    color: #039be5;
+}
+.g3 p{
+    color: #039be5;
+
+}
+footer{
+    display: flex;
+    border: 1px black solid;
+    position: relative;
+    top: 300px;
+    width: 100%;
+    background-color: #002a40;
+    color: white;
+}
+footer div{
+    width: 25%;
+
+}
+.h1{
+    position: relative;
+    left: 20spx;
+}
