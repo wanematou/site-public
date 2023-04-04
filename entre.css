@@ -26,6 +26,14 @@
     left: 175px;
 
 }
+.ss2 a{
+    text-decoration: none;
+    color: black;
+}
+.ss2 a:hover{
+    cursor: pointer;
+    color: whitesmoke;
+}
 .ss2 li:hover{
     cursor: pointer;
     color: whitesmoke;
@@ -98,19 +106,6 @@ left: 11%;
     left: 10%;
 }
 
-footer{
-    display: flex;
-    border: 1px black solid;
-    position: relative;
-    top: 150px;
-    width: 100%;
-    background-color: #002a40;
-    color: white;
-}
-footer div{
-    width: 25%;
-
-}
 .s6{
     display: flex;
     width: 100%; 
@@ -178,4 +173,37 @@ left: 30px;
     height:50px;
     color: white;
     background-color: rgb(36, 34, 34);
+}
+footer{
+    border: 1px black solid;
+    position: relative;
+    top: 200px;
+    width: 100%;
+    background-color: #002a40;
+    color: white;
+}
+footer td{
+    position: relative;
+    left: 15%;
+}
+.h1{
+    width: 20% ;
+}
+.h2{
+    width: 30%;
+}
+.h3{
+    width: 30%;
+}
+.h4{
+    width: 20%; 
+    position: relative;
+    top: 18px;
+}
+.o p{
+    text-align: center;
+    color: beige;
+}
+body{
+    overflow-x: hidden;
 }

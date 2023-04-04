@@ -26,10 +26,19 @@
     left: 175px;
 
 }
+.ss2 a{
+    text-decoration: none;
+    color: black;
+}
+.ss2 a:hover{
+cursor: pointer;
+color: whitesmoke;
+}
 .ss2 li:hover{
     cursor: pointer;
     color: whitesmoke;
 }
+
 .s3{
     width: 100%;
     height: 75px;
@@ -42,7 +51,9 @@
     position: relative;
     left: 325px;
     top: 15px;
+
 }
+
 .c11{
     font-size: 18px;
     width: 500px;
@@ -301,7 +312,6 @@ top: 40px;
 
 }
 footer{
-    display: flex;
     border: 1px black solid;
     position: relative;
     top: 300px;
@@ -309,11 +319,29 @@ footer{
     background-color: #002a40;
     color: white;
 }
-footer div{
-    width: 25%;
-
+footer td{
+    position: relative;
+    left: 15%;
 }
 .h1{
-    position: relative;
-    left: 20spx;
+    width: 20% ;
 }
+.h2{
+    width: 30%;
+}
+.h3{
+    width: 30%;
+}
+.h4{
+    width: 20%; 
+    position: relative;
+    top: 18px;
+}
+.o p{
+    text-align: center;
+    color: beige;
+}
+body{
+    overflow-x: hidden;
+}
+
